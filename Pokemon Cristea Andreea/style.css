@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Playfair Display', serif;
+    letter-spacing: 2px;
+    background: #004FF9; 
+    background: linear-gradient(to right, #FFF94C, #004FF9);
+}
+
+.all-wrapp{
+    border: 2px solid #FFD700;
+    border-radius: 5px;
+    width: 410px;
+    height: 570px;
+    z-index: 0;
+    position: relative;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #FFD700;
+}
+
+img{ 
+   border: 5px solid #A9A9A9;
+   background-image: url(forest.jpg);
+   background-size: 400px;
+    /* background-color: blue; */
+    z-index: 1;
+    width: 370px;
+    bottom: 290px;
+    position: absolute;
+    background-color: transparent;
+}
+img:hover{
+    background-image: url(wall4.jpg);
+    border-color: gold;
+}
+
+h1{
+    color: #080700;
+    position: absolute;
+    top: 50px;
+    margin: 0;
+}
+
+p{
+    position: absolute;
+    font-weight: 600;
+}
+
+#p1{
+    margin: 310px 20px 199px 140px;   
+}
+
+#p5{
+    margin: 335px 20px 199px 140px;
+}
+
+#p2{
+    margin: 360px 110px 190px 140px; 
+}
+
+#p3{
+    margin: 410px 150px 190px 140px;  
+}
+
+#p4{
+    margin: 385px 110px 199px 140px;
+}
+#types{
+    position: absolute;
+    margin: 390px 110px 199px 140px;
+}
+
+#container-card{
+    background-image: url(img7.png);
+    width: 410px;
+    height: 550px;
+}
+
+#pokemon-id{
+    border-color: #FFD700;
+    text-align: center;
+    background-color: #FFD700;
+    transform: translateY(470px);
+    margin-left: 100px; 
+}
+
+#pokemon-btn{
+    border-radius: 50%;
+    background-color: #FFD700;
+    padding: 10px;  
+    text-decoration: none;
+    font-size: 15px;
+    text-align: center;
+    transform: translateY(470px); 
+}
