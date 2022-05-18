@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+body{
+    margin: 0;
+    background: rgb(78,67,118);
+    background: linear-gradient(275deg, rgba(78,67,118,1) 19%, rgba(43,88,118,1) 82%);
+    font-family: 'Rajdhani', sans-serif;
+    
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    height: auto;
+    padding-top: 40px;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+    padding: 10px;
+    font-size: 70px;
+}
+
+#txt {
+   position: relative;
+    font-size: 100px;
+    letter-spacing: 2px;
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    padding: 20px;
+    animation: glow 1s infinite alternate;
+}
+
+@keyframes glow {
+    from{
+    text-shadow: 0 0 10px #fff, 0 0 10px #fff;
+}
+    to{
+  text-shadow: 0 0 20px #fff, 0 0 32px #8afc8a;
+    }
+}
+
+#txt:hover {
+    color: violet;
+}
+
+img {
+    position: absolute;
+    height: 500px;
+}
