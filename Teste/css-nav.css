@@ -1,0 +1,96 @@
+.nav-link svg {
+  width: 2rem;
+  min-width: 2rem;
+  margin: 0 1.5rem;
+  color: #55565a;
+}
+:root {
+    --primary-color: #2d2e39;
+    --secondary-color: #b8babd;
+    --svg-color: #ac3e88;
+  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+
+.navbar {
+  position: fixed;
+  height: 100%;
+  background-color:  var(--primary-color);
+
+}
+.navbar:hover {
+  width: 12rem;
+}
+.navbar:hover span {
+  display: block;
+}
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  list-style: none;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  width: 100%;
+}
+
+.nav-link, svg {
+ color: var(--secondary-color);
+}
+.nav-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  height: 5rem;
+  text-decoration: none;
+  opacity: 0.9;
+}
+.nav-link:hover {
+  background-color: bisque;
+  opacity: 1;
+}
+
+.nav-item:last-child {
+margin-top: auto;
+}
+
+.navbar:hover .logo svg {
+    translate: 1s ease-in-out;
+    visibility: hidden;
+    color: var(--svg-color);
+  }
+
+span:first-child {
+  margin-left: 4rem;
+  font-size: 1.5em;
+}
+span {
+  display: none;
+}
+
+
+
+main {
+  margin-left: 6rem;
+}
+h1 {
+}
+p {
+  margin-top: 10px;
+}
