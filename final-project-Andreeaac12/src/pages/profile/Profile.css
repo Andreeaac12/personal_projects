@@ -1,0 +1,82 @@
+.wrapping-personal--information {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  height: 100vh;
+  margin: 5rem;
+}
+
+.personal-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.title-personal {
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+.form-address {
+  padding: 50px;
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  height: 50%;
+  border: 0;
+  background-color: rgba(128, 128, 128, 0.171);
+  box-shadow: 0 16px 25px 4px rgba(0, 0, 0, 0.185);
+  margin: 20px;
+}
+.ul-address {
+  padding: 50px;
+  width: 70%;
+  height: 50%;
+  background-color: rgba(128, 128, 128, 0.171);
+  border: 0;
+  box-shadow: 0 16px 25px 4px rgba(0, 0, 0, 0.185);
+  margin: 20px;
+}
+.input-filed {
+  border-radius: 0;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.06);
+}
+.info-edit {
+  font-weight: 600;
+  font-style: oblique;
+  font-size: 16px;
+  margin-top: 10px;
+}
+.info-edit-address {
+  font-weight: 600;
+  font-style: oblique;
+  font-size: 16px;
+}
+.btn-change--address {
+  border: none;
+  padding: 10px;
+  border-radius: 50px;
+  width: 50%;
+  cursor: pointer;
+  margin: 0 auto;
+  background-color: white;
+}
+.btn-change--address:hover {
+  background-color: var(--pink);
+}
+.disabled-address {
+  color: black;
+  border: none;
+  background: transparent;
+  text-align: justify;
+}
+@media screen and (max-width: 800px) {
+  .btn-change--address {
+    border: none;
+    padding: 10px;
+    border-radius: 50px;
+    width: 50%;
+    cursor: pointer;
+    margin: 0 auto;
+    background-color: white;
+    font-size: 10px;
+  }
+}

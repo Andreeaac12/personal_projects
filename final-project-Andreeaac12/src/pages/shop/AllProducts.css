@@ -1,0 +1,31 @@
+
+.product-card--shop {
+display: grid;
+grid-template-columns: 1fr;
+    box-shadow: rgba(129, 129, 132, 0.2) 0px 7px 6px 0px;
+    padding: 70px;
+    background-color: #fafafa;
+   max-width: 450px;
+   text-align: center;
+   margin: 2rem;
+}
+ 
+.products-card--title__shop{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+  a {
+    text-decoration: none;
+  }
+
+
+  .wrapping-details{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    color: black;
+    margin: 2rem;
+
+  }
+ 

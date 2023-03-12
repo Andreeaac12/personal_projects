@@ -1,0 +1,86 @@
+/* carousel css */
+.title-card {
+  text-align: center;
+  padding: 50px;
+  background-color: #fdf4f5;
+  border-radius: 50px;
+  margin: 30px;
+}
+.container-card {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  list-style-type: none;
+  text-decoration: none;
+  margin: 50px;
+}
+
+.gift-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  /* text-shadow: 2px 4px 5px rgba(255, 217, 0, 0.715); */
+}
+.gift-card p {
+  font-size: 1.1rem;
+}
+.btn-gift {
+  border: transparent;
+  background-color: transparent;
+  cursor: pointer;
+  max-width: 300px;
+}
+.puzzle-img {
+  max-width: 500px;
+  background-color: blue;
+}
+
+
+
+.gifts-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  justify-items: center;
+  margin: 50px;
+  gap: 10px;
+  /* border-radius: 5px; */
+}
+.gifts-description h3 {
+  font-size: 23px;
+  padding-bottom: 20px;
+}
+.best--sellers {
+  font-size: 23px;
+  text-align: center;
+  padding-top: 15px;
+  font-style: italic;
+}
+
+/* .video-container{
+  background-color: #fce8e7;
+display: grid;
+grid-template-rows: repeat(auto-fit,minmax(300px,1fr));
+  height: 90vh;
+  align-items: center;
+}
+.video{
+  max-width: 50%;
+  border-radius: 20px; 
+  overflow: hidden; 
+  position: relative;
+left: 500px;
+bottom: 150px;  
+}
+.description-video__container{
+  background-color: white;
+  border-radius: 20px;
+  height: 350px;
+  max-width: 300px;
+  padding: 30px;
+  position: relative;
+  left: 250px;
+  top: 150px;
+  z-index: 1;
+} */

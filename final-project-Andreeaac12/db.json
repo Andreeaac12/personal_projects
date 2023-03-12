@@ -1,0 +1,181 @@
+{
+  "products": [
+    {
+      "Title": "Face Oil",
+      "Price": "52",
+      "Type": "body",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/Gisou_Honey_Infused_Face_Oil_PDP-01_87e34561-8670-48f2-bf91-4f1e7df75dff_600x750_crop_center@2x.jpg?v=1664176905",
+      "Description": "A brighter, healthier-looking glow",
+      "Unique": "This antioxidant-rich, fast-absorbing daily face oil is formulated to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils from the Mirsalehi Bee Garden.  ",
+      "Multitasker": "Our face oil contains 95.7% cold-pressed botanical oils. What does “cold-pressed” mean? It’s one of the purest forms of extraction that doesn’t use high heat, which can destroy valuable nutrients – vitamins, minerals, antioxidants, fatty acids – found naturally within botanical extracts.",
+      "Currency": "€",
+      "id": "rP568p9"
+    },
+    {
+      "Title": "Beauty Balm",
+      "Price": "34",
+      "Type": "body",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/Gisou_Honey_Infused_Beauty_Balm_2000x2500.jpg?v=1654618008",
+      "Description": "Melts like honey, transforms your skin",
+      "Unique": "A never-before-seen Oil-Balm is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden.\\nOur Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Multitasker": "At Gisou we believe that healthy skin is beautiful skin. The Honey Infused Beauty Balm is here to tackle problem skin areas to strengthen, protect and hydrate the skin and its barrier while also enhancing your natural beauty by brightening and smoothing.",
+      "Currency": "€",
+      "id": "-U_fGUf"
+    },
+    {
+      "Title": "Hair Wash Mini",
+      "Price": "10",
+      "Type": "hair",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP-1.HairWash_MINI_Packshot_600x750_crop_center.jpg?v=1671186334",
+      "Description": "Meet our new healthier, cleaner formula.",
+      "Unique": "Our Face Oil is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden.\\nOur Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Multitasker": "Our Face Oil is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden. Our Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Currency": "€",
+      "id": "84HoHnf"
+    },
+    {
+      "Title": "Holiday Glam Duo",
+      "Price": "84",
+      "Type": "body",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP_Honey_Infused_Hair_Oil_50ml-01-4x5_600x750_crop_center@2x.jpg?v=1645454883",
+      "Description": "The right prep keeps hair in prime condition",
+      "Unique": "Our Face Oil is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden.\\nOur Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Multitasker": "Our Face Oil is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden. Our Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Currency": "€",
+      "id": "hAIlzbS"
+    },
+    {
+      "Title": "Honey Glow Icons",
+      "Price": "108",
+      "Type": "hair",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/Gisou_Double_Honey_Duo-01_600x750_crop_center@2x.jpg?v=1646123199",
+      "Description": "The right prep keeps hair in prime condition",
+      "Unique": "Meet the ultimate trifecta of Gisou’s honey-infused collection for a transformative glow. Infused with Mirsalehi Honey and our proprietary Mirsalehi Bee Garden Oil Blend for silky, shiny locks, plumper, more defined lips and a radiant-looking complexion, this trio of quick-to-sell-out classics is the only collectible you need for hair & skin.",
+      "Multitasker": "At Gisou we believe that healthy skin is beautiful skin. The Honey Infused Beauty Balm is here to tackle problem skin areas to strengthen, protect and hydrate the skin and its barrier while also enhancing your natural beauty by brightening and smoothing.",
+      "Currency": "€",
+      "id": "sDEy7y7"
+    },
+    {
+      "Title": "Hair Perfume Pocket Size",
+      "Price": "38",
+      "Type": "hair",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP_Propolis_Prep_Prime-Pack-01_600x750_crop_center@2x.jpg?v=1645456491",
+      "Description": "The right prep keeps hair in prime condition",
+      "Unique": "Our hair perfume is enriched with Mirsalehi Honey from the Mirsalehi Bee Garden, formulated to refresh and scent hair with Gisou’s signature fragrance - an aroma that leaves behind an irresistible trail of the floral notes from the Mirsalehi Bee Garden. ",
+      "Multitasker": "This unique hair fragrance blend scents hair with Gisou’s signature notes from the Mirsalehi Bee Garden and adds moisture and shine.",
+      "Currency": "€",
+      "id": "HdHgfA1"
+    },
+    {
+      "Title": "Body Perfume Pocket Size",
+      "Price": "48",
+      "Type": "body",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP_Propolis_Prep_Prime-Pack-01_600x750_crop_center@2x.jpg?v=1645456491",
+      "Description": "The right prep keeps hair in prime condition",
+      "Unique": "Our hair perfume is enriched with Mirsalehi Honey from the Mirsalehi Bee Garden, formulated to refresh and scent hair with Gisou’s signature fragrance - an aroma that leaves behind an irresistible trail of the floral notes from the Mirsalehi Bee Garden.",
+      "Multitasker": "This unique hair fragrance blend scents hair with Gisou’s signature notes from the Mirsalehi Bee Garden and adds moisture and shine.",
+      "Currency": "€",
+      "id": "-nUb25c"
+    },
+    {
+      "Title": "Conditioner Mini",
+      "Price": "10",
+      "Type": "hair",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP-Gisou_Honey_Infused_Conditionermini_600x750_crop_center.jpg?v=1653986032",
+      "Description": "Melts like honey, transforms your skin",
+      "Unique": "A never-before-seen Oil-Balm is the secret to bright, dewy skin. It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden.\\nOur Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Multitasker": "At Gisou we believe that healthy skin is beautiful skin. The Honey Infused Beauty Balm is here to tackle problem skin areas to strengthen, protect and hydrate the skin and its barrier while also enhancing your natural beauty by brightening and smoothing.",
+      "Currency": "€",
+      "id": "u0myLeU"
+    },
+    {
+      "Title": "Curling Tool",
+      "Price": "119",
+      "Type": "hair",
+      "Poster": "https://cdn.shopify.com/s/files/1/0361/1987/1619/products/PDP_Gisou-Curling-Tool-02-4x5_49edfbba-62aa-4cc8-a9d6-f86182bd3653_2000x2500.jpg?v=1651218868",
+      "Description": "Styling Tool",
+      "Unique": "The Gisou Curling Tool is a limited edition curling tool envisioned and developed by Negin Mirsalehi and the Gisou team It’s a sustainably-sourced, antioxidant-rich concentrate crafted to nourish skin with the transformative benefits of Mirsalehi Honey, natural actives and freshly cold-pressed botanical oils inspired by the Mirsalehi Bee Garden.\\nOur Honey Infused Hair Oil is the key to healthy, shiny and nourished hair. Our first ever product was inspired by the Mirsalehi Bee Garden and contains Mirsalehi Honey, which maintains the hair’s natural moisture balance.",
+      "Multitasker": "At Gisou we believe that healthy skin is beautiful skin. The Honey Infused Beauty Balm is here to tackle problem skin areas to strengthen, protect and hydrate the skin and its barrier while also enhancing your natural beauty by brightening and smoothing.",
+      "Currency": "€",
+      "id": "AWpJb41"
+    }
+  ],
+  "users": [
+    {
+      "email": "andreea.cristea64@yahoo.com",
+      "password": "$2a$10$1Wa56sFd09M43ZnosBjY9u9gK18E4nRU0xwcdYCeqa2KpInuFWX4K",
+      "first": "Andreea",
+      "last": "Cristea",
+      "address": "Muntii gurghiului,38",
+      "id": 1
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$sNIzgbjEX6KR.49XiBc3TemtEIiN9rbsJ1wPkE5hLFjz3nuos./lm",
+      "first": "test",
+      "last": "test",
+      "address": "Bujorilor, 598",
+      "id": 2
+    },
+    {
+      "email": "andreea.cristea@yahoo.com",
+      "password": "$2a$10$1xSEmPX0wBz8x3gvHn3vkudVMph4BXIDpOHPayHprFPPfUDc1w6O.",
+      "first": "Andreea",
+      "last": "Andra",
+      "address": "Muntii gurghiului,38",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$X0vBfimL0QeoxrnSedBMm.tjsxKSpJEGY3bacqRIitrmwZ2ez/9aa",
+      "first": "Andreea",
+      "last": "Bogdan",
+      "address": "Strada Bujorului, 84",
+      "id": 4,
+      "admin": "true"
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$wvPerlC.s9zpSlA.BYd5XeW4gmztuHPfOLzmOqiMNwR2hXAxqzbiq",
+      "first": "andreea",
+      "last": "cristea",
+      "address": "llala",
+      "id": 5
+    },
+    {
+      "email": "andreea@yahoo.com",
+      "password": "$2a$10$KubTCr8G6iOgN8oIbniro.4CYAvWJKzzRxchrilIjxC1xhWZYDLm.",
+      "first": "Andra",
+      "last": "Bau",
+      "address": "Bucuresti",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "products": [
+        {
+          "productId": "-U_fGUf",
+          "quantity": 2
+        },
+        {
+          "productId": "rP568p9",
+          "quantity": 10
+        },
+        {
+          "productId": "sDEy7y7",
+          "quantity": 1
+        },
+        {
+          "productId": "HdHgfA1",
+          "quantity": 1
+        },
+        {
+          "productId": "AWpJb41",
+          "quantity": 1
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

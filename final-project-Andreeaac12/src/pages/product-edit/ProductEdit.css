@@ -1,0 +1,48 @@
+.form-edit--container {
+  display: grid;
+  grid-template-rows: repeat(auto-fit, minmax(500px, 1fr));
+  gap: 0em 0em;
+  width: 45em;
+  height: 50em;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+.wrapping-edit {
+  background-color: #fae0e4;
+  max-height: 90vh;
+  text-align: center;
+  padding: 15px;
+  box-shadow: 0 16px 25px 4px rgba(0, 0, 0, 0.185);
+  font-weight: 600;
+  padding-bottom: 1rem;
+}
+.btn-save--changes {
+  border: none;
+  padding: 10px;
+  border-radius: 20px;
+  max-width: 50em;
+  margin-top: 20px;
+  background-color: white;
+}
+.edit-create {
+  margin-top: 3rem;
+  font-size: 20px;
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 2px;
+}
+select {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+@media screen and (max-width: 450px) {
+  .form-edit--container {
+    display: grid;
+    grid-template-rows: repeat(auto-fit, minmax(500px, 1fr));
+    width: 30em;
+  }
+}
