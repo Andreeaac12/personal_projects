@@ -34,12 +34,13 @@ export function MenuComponent() {
   return (
     <>
       <nav className="navbar-menu">
-        <img
+        {/* <img className="brand-logo"
           onClick={() => navigate("/")}
           src="https://www.lawnmowerlawnmower.com/se/brands/gisou.png"
           width="200px"
           alt="Brand Icon"
-        />
+        /> */}
+        <span className="brand-logo" onClick={() => navigate("/")}>gisou</span>
         {showNav ? (
           <ul className="list-menu">
             <div className="dropdown">

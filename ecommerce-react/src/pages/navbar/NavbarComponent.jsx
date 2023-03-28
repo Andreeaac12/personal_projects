@@ -1,5 +1,5 @@
 import "./NavbarComponent.css";
-import image from "../../images/bg-img2.jpg";
+import image from "../../images/shopAllimg.jpg";
 import giftCard from "../../images/giftcard.jpg";
 import puzzle5 from "../../images/puzzle5.jpg";
 import giftImg from "../../images/giftimg.jpg";

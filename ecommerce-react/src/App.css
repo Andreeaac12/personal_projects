@@ -1,6 +1,7 @@
 :root{
   --pink: #fdf4f5;
   --btn-hover: #fce8e7;
+  --primary-colors: #ccd5ae;
 }
 
 /*
@@ -21,8 +22,10 @@
   html, body {
     height: 100%;
     font-size: 14px;
-    font-family: 'Lato','Roboto', sans-serif; 
-  }
+    font-family: 'Playfair Display', serif; 
+    
+   }
+    
   /*
     Typographic tweaks!
     4. Add accessible line-height
@@ -31,6 +34,7 @@
   body {
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
+    /* background-color: #f7eeed; */
   }
   /*
     6. Improve media defaults

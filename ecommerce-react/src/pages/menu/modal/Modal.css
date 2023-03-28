@@ -43,8 +43,9 @@
 
 .bg-image {
   width: 100vw;
-  height: 80vh;
+  height: 100vh;
   object-fit: fill;
+  cursor: pointer;
 }
 .story-text {
   margin-bottom: 20px;

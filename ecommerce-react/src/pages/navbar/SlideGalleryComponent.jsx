@@ -21,8 +21,9 @@ export function SlideGalleryComponent(props) {
               {Price}
               {Currency}
             </span>
+            <span className="stars">⭐⭐⭐⭐⭐</span>
+
           </article>
-          <span className="stars">⭐⭐⭐⭐⭐</span>
           <span className="product-card--description">
             <span>{Description}</span>
           </span>
